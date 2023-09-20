@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Assignment</string>
     <string name="app_title">Call Logs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="watch_trailer">Watch Trailer</string>
+    <string name="category">Category: %s</string>
+    <string name="runtime">Runtime Minutes: %d</string>
+    <string name="year">Released Year: %d</string>
+    <string name="date">Release on: %s</string>
 </resources>

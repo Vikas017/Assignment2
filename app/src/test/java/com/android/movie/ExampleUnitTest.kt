@@ -1,4 +1,4 @@
-package com.android.assignment
+package com.android.movie
 
 import org.junit.Test
 

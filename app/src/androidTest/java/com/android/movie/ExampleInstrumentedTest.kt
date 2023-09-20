@@ -1,4 +1,4 @@
-package com.android.assignment
+package com.android.movie
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

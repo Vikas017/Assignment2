@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Widget.Assignment.IconButton" parent="Widget.Material3.Button.OutlinedButton" >
+    <style name="Widget.Movie.CardView" parent="Widget.Material3.CardView.Outlined" >
         <item name="android:padding">4dp</item>
         <item name="android:layout_margin">4dp</item>
-        <item name="borderWidth">1dp</item>
-        <item name="iconGravity">top</item>
-        <item name="iconSize">24dp</item>
-        <item name="cornerRadius">8dp</item>
+        <item name="cornerRadius">4dp</item>
+        <item name="strokeWidth">0.4dp</item>
+    </style>
+
+    <style name="Widget.Movie.MaterialTextView" parent="Widget.MaterialComponents.TextView">
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:padding">2dp</item>
     </style>
 
 </resources>
