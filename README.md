@@ -1,4 +1,4 @@
-# Vijayi WFH Assignment
+# Movie Assignment
 ### Description
 This is just 2 screens. on pressing the first item from the home screen navigates you to the detail screen.
 ***Note*** The UI can also be beautified using the selectors.
